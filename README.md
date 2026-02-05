@@ -32,22 +32,24 @@ I actively contribute to tech events and enjoy creating engaging digital experie
 
 ---
 
-## 🚀 Tech Stack & Skills
+## 💻 Tech Skills
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,git,github,vscode,sqlite" />
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+</p>
 
----
+<p align="center">
+
+<img src="https://img.shields.io/badge/Tkinter-GUI-yellow?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ReportLab-PDF-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OOP-Concept-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Structures-Basic-green?style=for-the-badge" />
+
+</p>
+
 
 ### 🧠 Core Concepts
 ✔ Object-Oriented Programming (OOP)  
