@@ -48,7 +48,6 @@
 I actively organize tech events and enjoy creating interactive digital experiences.
 
 ---
-
 ## 💻 Tech Stack
 
 ### 🚀 Core Development
@@ -72,6 +71,10 @@ I actively organize tech events and enjoy creating interactive digital experienc
 <p align="center">
 
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ReportLab-PDF-red?style=for-the-badge"/>
@@ -80,10 +83,11 @@ I actively organize tech events and enjoy creating interactive digital experienc
 
 ---
 
-### 🛠️ Tools & Environment
+### ☁️ Deployment & Tools
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -95,15 +99,15 @@ I actively organize tech events and enjoy creating interactive digital experienc
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sarathTechie&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarathTechie&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=sarathTechie&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sarathTechie&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathTechie&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathTechie&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
