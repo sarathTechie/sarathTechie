@@ -150,15 +150,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=sarathTechie&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
----
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarathTechie&theme=tokyo-night"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -191,9 +183,7 @@
 <p align="center">
 ⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Happy+Coding!;Let's+Build+Something+Awesome!;Always+Learning+🚀"/>
 
-</p>
 
 <p align="center">
 
