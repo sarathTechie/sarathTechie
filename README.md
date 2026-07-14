@@ -4,9 +4,8 @@
 🎓 B.Tech IT Student | 💻 Full Stack Developer | 🤖 AI & ML Enthusiast | 📊 Data Analytics | 🔐 Cybersecurity
 </h3>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarathTechie&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Explorer;Cybersecurity+Learner;FastAPI+%7C+React+Developer;IEEE+Leader;Tech+Event+Organizer" />
 </p>
 
 ---
@@ -20,7 +19,6 @@
 ### 🌟 Leadership
 
 - 💙 Treasurer — IEEE Women in Engineering (WIE) MUJ
-- 🚀 Director Corporate Affairs — Genesis 6.0
 - 💡 Co-Convenor — International Innovation Challenge (IIC) 3.0
 
 ### 🌱 Currently Learning
@@ -125,53 +123,11 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🏥 AI Medical Image Captioning
-- Vision Transformer (ViT)
-- Microsoft Phi-2
-- LoRA Fine-Tuning
-- Hugging Face
-- PyTorch
-
-### 🌍 AI Powered Visual Travel Planner
-- React.js
-- Flask
-- Google Maps API
-- Supabase
-- AI Itinerary Generation
-
-### 🏨 Hotel Management System
-- Python
-- Tkinter
-- SQLite
-- Dynamic Pricing
-- PDF Receipt Generation
-
-### 🛒 ShopEase E-Commerce Platform
-- React.js
-- Material UI
-- Responsive Design
-- Product Search & Filtering
-
-### 📊 Restaurant Data Analytics
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- NLP & Sentiment Analysis
-
----
-
 # 🏆 Leadership
 
 🏅 Treasurer — IEEE Women in Engineering (WIE), MUJ
 
-🏅 Director Corporate Affairs — Genesis 6.0
-
 🏅 Co-Convenor — International Innovation Challenge (IIC) 3.0
-
-🏅 Logistics Team Member — ACM Student Chapter MUJ
 
 ---
 
@@ -234,4 +190,13 @@
 
 <p align="center">
 ⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Happy+Coding!;Let's+Build+Something+Awesome!;Always+Learning+🚀"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
 </p>
