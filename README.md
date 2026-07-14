@@ -1,133 +1,184 @@
-<h1 align="center">Hey 👋 I'm Sarath Mohanraj</h1>
+# Hi 👋 I'm Sarath Mohanraj
 
+```{=html}
 <h3 align="center">
-💻 IT Student | 🚀 Developer | 🔐 Cybersecurity & AI Enthusiast | 😄 Enjoy Exploring and Building New Technologies
+```
+🎓 B.Tech IT Student \| 💻 Full Stack Developer \| 🤖 AI & ML Enthusiast
+\| 📊 Data Analytics \| 🔐 Cybersecurity
+```{=html}
 </h3>
-
+```
+```{=html}
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Cybersecurity+Explorer;AI+%26+ML+Learner;Java+%26+DSA+Enthusiast;Tech+Event+Organizer" />
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning;Data+Analytics;Cybersecurity;FastAPI+Developer;React+Developer;IEEE+Leader;Tech+Event+Organizer"/>`{=html}
+```{=html}
 </p>
-
----
-
-## 🚀 Technologies & Interests
-
+```
+```{=html}
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-0A66C2?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML%20Enthusiast-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity%20Enthusiast-2C2C2C?style=for-the-badge&logo=hackthebox&logoColor=green"/>
-<img src="https://img.shields.io/badge/Cloud%20Enthusiast-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
+```
+`<img src="https://komarev.com/ghpvc/?username=sarathTechie&label=Profile%20Views&color=0e75b6&style=flat"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🧑‍💻 About Me
+# 👨‍💻 About Me
 
-✨ Information Technology student driven by curiosity and innovation, focused on building real-world technology solutions.
+-   🎓 B.Tech Information Technology student at **Manipal University
+    Jaipur**
+-   💻 Passionate about Full Stack Development, AI, Data Analytics and
+    Cybersecurity
+-   🌱 Currently learning **FastAPI, Advanced React, PyTorch, Hugging
+    Face & Java DSA**
+-   🚀 Love building real-world applications and solving practical
+    problems
 
-💡 Expertise Growing In  
-• Python Development  
-• React Based Web Development  
-• Object-Oriented Programming  
-• Desktop Application Development  
+## 🏆 Leadership
 
-🔍 Currently Exploring  
-• Artificial Intelligence & Machine Learning  
-• Cybersecurity & Secure Systems  
-• Scalable Full Stack Development  
+-   💙 Treasurer --- IEEE Women in Engineering (WIE) MUJ
+-   🚀 Director Corporate Affairs --- Genesis 6.0
+-   💡 Co-Convenor --- International Innovation Challenge (IIC) 3.0
+-   🤝 Logistics Team --- ACM Student Chapter MUJ
 
-🤝 Passionate About  
-• Building impactful projects  
-• Collaborating with developers  
-• Exploring emerging technologies  
+------------------------------------------------------------------------
 
-⚡ Beyond Coding  
-I actively organize tech events and enjoy creating interactive digital experiences.
+# 💻 Tech Stack
 
----
-## 💻 Tech Stack
+### 👨‍💻 Languages
 
-### 🚀 Core Development
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css"/>`{=html}
+```{=html}
+</p>
+```
+### ⚛️ Frameworks & Libraries
 
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=react,flask,fastapi"/>`{=html}
+`<img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>`{=html}
+```{=html}
+</p>
+```
+### 🗄️ Databases
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase"/>`{=html}
+```{=html}
+</p>
+```
+### 🛠️ Tools
+
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>`{=html}
+`<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 🚀 Featured Projects
+
+### 🌍 AI Powered Visual Travel Planner
+
+-   React.js + Flask + Supabase + Google Maps API + AI itinerary
+    generation
+
+### 🏥 AI Medical Image Captioning
+
+-   Vision Transformer • Microsoft Phi-2 • LoRA • Hugging Face • PyTorch
+
+### 🏨 Hotel Management System
+
+-   Python • Tkinter • SQLite • Dynamic Pricing • PDF Receipt Generation
+
+### 🛒 ShopEase E-Commerce Platform
+
+-   React.js • Material UI • Responsive UI • Product Search
+
+### 📊 Restaurant Data Analytics
+
+-   Python • Pandas • NumPy • Matplotlib • NLP & Sentiment Analysis
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+
+```{=html}
 <p align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
+```
+`<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sarathTechie&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img width="48%" src="https://streak-stats.demolab.com?user=sarathTechie&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
----
-
-### 🗄️ Database & Libraries
-
+```
+```{=html}
 <p align="center">
-
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ReportLab-PDF-red?style=for-the-badge"/>
-
+```
+`<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathTechie&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-### ☁️ Deployment & Tools
+# 🏆 GitHub Trophies
 
+```{=html}
 <p align="center">
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=sarathTechie&theme=tokyonight&no-frame=true&row=2&column=4"/>`{=html}
+```{=html}
 </p>
+```
 
+------------------------------------------------------------------------
 
-## 📊 GitHub Stats
+# 🌐 Connect With Me
 
+```{=html}
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sarathTechie&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=sarathTechie&theme=tokyonight&hide_border=true" />
+```
+`<a href="https://github.com/sarathTechie">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/sarath-mohanraj">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>`{=html}`</a>`{=html}
+`<a href="https://www.instagram.com/sarathmohanraj">`{=html}`<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>`{=html}`</a>`{=html}
+`<a href="mailto:sarathmohanraj28@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
 
+------------------------------------------------------------------------
+
+## ⚡ Fun Facts
+
+-   💡 I enjoy organizing large-scale tech events.
+-   🚀 I love learning emerging technologies.
+-   📈 Always exploring AI, Cybersecurity, and Full Stack Development.
+
+------------------------------------------------------------------------
+
+```{=html}
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sarathTechie&layout=compact&theme=tokyonight&hide_border=true" />
+```
+`<b>`{=html}💙 "Code • Learn • Build • Innovate • Repeat"`</b>`{=html}
+
+⭐ Thanks for visiting my profile!
+```{=html}
 </p>
-
-
-
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sarath-mohanraj">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/sarathmohanraj?igsh=MTRva3d5cGtjaGhhNg==">
-<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="mailto:sarathmohanraj28@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-⭐ From [Sarath Mohanraj](https://github.com/sarathTechie)
+```
