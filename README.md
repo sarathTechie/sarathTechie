@@ -130,19 +130,22 @@
 🏅 Co-Convenor — International Innovation Challenge (IIC) 3.0
 
 ---
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="./stats.svg" width="70%" alt="GitHub Stats"/>
+  <img width="49%"
+       src="https://streak-stats.demolab.com?user=sarathTechie&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak"/>
+
+  <img width="49%"
+       src="./top-langs.svg"
+       alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sarathTechie&theme=tokyonight&hide_border=true"
-       width="70%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="./top-langs.svg" width="60%" alt="Top Languages"/>
+  <img width="95%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=sarathTechie&theme=tokyo-night&hide_border=true"
+       alt="GitHub Activity Graph"/>
 </p>
 
 # 🌐 Connect With Me
