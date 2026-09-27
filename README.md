@@ -133,19 +133,16 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%"
-       src="./stats.svg"
-       alt="GitHub Stats"/>
-
-  <img width="49%"
-       src="https://streak-stats.demolab.com?user=sarathTechie&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak"/>
+  <img src="./stats.svg" width="70%" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img width="42%"
-       src="./top-langs.svg"
-       alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=sarathTechie&theme=tokyonight&hide_border=true"
+       width="70%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="./top-langs.svg" width="60%" alt="Top Languages"/>
 </p>
 
 # 🌐 Connect With Me
