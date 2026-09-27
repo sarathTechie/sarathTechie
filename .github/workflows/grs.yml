@@ -1,5 +1,5 @@
 
-name: Update GitHub Stats
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -10,34 +10,24 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
-        uses: stats-organization/github-readme-stats-action@v2
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
-          card: stats
-          options: username=sarathTechie&show_icons=true&theme=tokyonight
-          path: stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
+          github_user_name: sarathTechie
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - name: Generate Top Languages
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=sarathTechie&layout=compact&theme=tokyonight
-          path: top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Commit generated cards
+      - name: Save graph
         run: |
+          cp dist/github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add stats.svg top-langs.svg
-          git commit -m "Update GitHub stats" || exit 0
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake" || exit 0
           git push
